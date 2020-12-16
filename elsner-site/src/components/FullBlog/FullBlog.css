@@ -1,0 +1,668 @@
+
+
+
+
+.example {
+    text-align: center;
+    /* background: rgba(0, 0, 0, 0.05); */
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    margin: 20px 0;
+  }
+  img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+   
+}
+.blog_title_bar h1.banners-headding {
+  font-size: 45px;
+  padding-bottom: 0;
+}
+@media screen and (max-width: 767px){
+.blog_detail_block .blog_inner_wrapper {
+    padding: 15px 0;
+}}
+
+.wptb-text-container>div, .wptb-text-container>div>p {
+  font-size: inherit;
+  color: inherit;
+}
+.img.image-center {
+  width: 100%;
+}
+table.wptb-preview-table {
+  opacity: 0;
+  animation: show 0.3s 1;
+  animation-fill-mode: forwards;
+  animation-delay: 0.7s;
+}
+
+
+.wptb-table-container table {
+  table-layout: fixed;
+  font-size: 15px;
+  width: auto;
+  display: table;
+  border-collapse: collapse;
+}
+
+.blog_inner_wrapper table {
+  border: 1px solid #000;
+}
+h1, p, a, body, h2, h3, h4, h5, h6, span, li, table, label, input {
+  font-family: 'Roboto',sans-serif!important;
+}
+table {
+  border-collapse: collapse;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+html, body, div, span, iframe, h3, p, a, img, ul, li, header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+@media (max-width: 767px)
+{.blog_detail_block .blog_inner_wrapper.blog_content_bar, .blog_inner_wrapper figure {
+  white-space: normal;
+  word-break: break-word;}
+}
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+  line-height: 1;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+  line-height: 1;
+}
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgb(33,37,41);
+  text-align: left;
+  background-color: rgb(255,255,255);
+}
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scroll;
+  -webkit-tap-highlight-color: transparent;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+table.wptb-preview-table {
+  /* opacity: 0; */
+  animation: show 0.3s 1;
+  animation-fill-mode: forwards;
+  animation-delay: 0.7s;
+}
+.wptb-table-container-matrix table {
+  margin: auto;
+}
+.wptb-table-container table {
+  table-layout: fixed;
+  font-size: 15px;
+  width: auto;
+  display: table;
+  border-collapse: collapse;
+}
+section.section-padding.white_block.blog_detail_block {
+  padding: 80px 0;
+  background: #f8f9fb;
+}
+@media (max-width: 991px)
+{.blog_detail_block.section-padding {
+  padding: 100px 0;
+}}
+.section-padding.blog_detail_block {
+  padding-bottom: 80px;
+}
+@media (max-width: 991px)
+{.section-padding, .light-box-popup {
+  padding: 40px 0;
+}}
+@media (max-width: 1200px)
+{.section-padding {
+  padding: 85px 0;
+  transition: 0.4s ease-in;
+}}
+@media (max-width: 1366px)
+{.section-padding {
+  padding: 90px 0;
+}}
+.white_block {
+  background-color: #fff;
+}
+.section-padding {
+  padding: 160px 0;
+  transition: 0.4s ease-out;
+}
+@media screen and (max-width: 767px)
+{section {
+  padding: 50px 0!important;
+}}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+section {
+  clear: both;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+section {
+  display: block;
+}
+h1, p, a, body, h2, h3, h4, h5, h6, span, li, table, label, input {
+  font-family: 'Roboto',sans-serif!important;
+}
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+  line-height: 1;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+}
+body {
+  font-family: 'Work Sans',sans-serif;
+  line-height: 1;
+}
+html, body, div, span, iframe, h3, p, a, img, ul, li, header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgb(33,37,41);
+  text-align: left;
+  background-color: rgb(255,255,255);
+}
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scroll;
+  -webkit-tap-highlight-color: transparent;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+.blog_wrapper {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+table{margin: 0;
+padding: 0;
+border: 0;
+text-decoration: none;
+vertical-align: baseline;
+font-family: 'Work Sans';
+}
+div{margin: 0;
+padding: 0;
+border: 0;
+text-decoration: none;
+vertical-align: baseline;
+font-family: 'Work Sans';
+}
+@media (min-width: 1200px)
+{.container {
+    max-width: 1140px;
+}}
+
+@media (min-width: 992px)
+{.container {
+    max-width: 960px;
+}}
+@media (min-width: 768px)
+{.container {
+    max-width: 720px;
+}}
+@media (min-width: 576px)
+{.container {
+    max-width: 540px;
+}}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (min-width: 576px)
+{.container {
+    max-width: 540px;
+}}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-family: 'Work Sans';
+}
+html, body, div, span, iframe, h3, p, a, img, ul, li, header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-family: 'Work Sans';
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+h1, p, a, body, h2, h3, h4, h5, h6, span, li, table, label, input {
+    font-family: 'Roboto',sans-serif!important;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+body {
+    font-family: 'Work Sans',sans-serif;
+}
+body {
+    font-family: 'Work Sans',sans-serif;
+    line-height: 1;
+}
+body {
+    font-family: 'Work Sans',sans-serif;
+}
+body {
+    font-family: 'Work Sans',sans-serif;
+    line-height: 1;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: rgb(33,37,41);
+    text-align: left;
+    background-color: rgb(255,255,255);
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scroll;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+p, li {
+  color: #121212;
+  font-size: 16px;
+  line-height: 25px;
+}
+h1, p, a, body, h2, h3, h4, h5, h6, span, li, table, label, input {
+  font-family: 'Roboto',sans-serif!important;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+p {
+  line-height: 28px;
+  font-family: 'Work Sans',sans-serif;
+  color: #464855;
+  margin-bottom: 16px;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+p {
+  line-height: 28px;
+  font-family: 'Work Sans',sans-serif;
+  color: rgb(70,72,85);
+  margin-bottom: 16px;
+}
+html, body, div, span, iframe, h3, p, a, img, ul, li, header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.std-page-section p img, .blog_content_bar p img {
+  display: block;
+  padding: 20px 0;
+}
+p{margin: 0;
+padding: 0;
+border: 0;
+text-decoration: none;
+vertical-align: baseline;
+font-family: 'Work Sans';
+}
+table.wptb-preview-table {
+  opacity: 0;
+  animation: show 0.3s 1;
+  animation-fill-mode: forwards;
+  animation-delay: 0.7s;
+}
+.wptb-table-container-matrix table {
+  margin: auto;
+}
+.wptb-table-container table {
+  table-layout: fixed;
+  font-size: 15px;
+  width: auto;
+  display: table;
+  border-collapse: collapse;
+}
+.blog_inner_wrapper table {
+  border: 1px solid #000;
+}
+h1, p, a, body, h2, h3, h4, h5, h6, span, li, table, label, input {
+  font-family: 'Roboto',sans-serif!important;
+}
+table {
+  border-collapse: collapse;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: 'Work Sans';
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+.wptb-table-container table {
+  table-layout: fixed;
+  font-size: 15px;
+  width: auto;
+  display: table;
+  border-collapse: collapse;
+}
+.wptb-table-container table td {
+  box-sizing: content-box;
+  padding: 10px;
+  background-color: inherit;
+  vertical-align: middle;
+}
